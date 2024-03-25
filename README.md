@@ -1,4 +1,4 @@
-## Olá, meu nome é ✌️🫰{joao paulo}! ✌️🫰
+## Olá, meu nome é ✌️🫰joao paulo✌️🫰
 
 ### ⚙️ GitHub Analytics
 
