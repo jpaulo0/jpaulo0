@@ -11,4 +11,4 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-![Alt](https://img.freepik.com/fotos-gratis/vista-do-skate-com-rodas-ao-ar-livre_23-2150407530.jpg)
+![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Y6jvOYX3bjdZ2O6QuGlwNZ7rC7l8OZExQiRSgA2RtA&s)
