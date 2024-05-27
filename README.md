@@ -13,6 +13,6 @@
 
 ## Carro Animado
 
-![Carro Animado](car.svg)
-
-<link rel="stylesheet" href="car-animation.css">
+<svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <link rel="stylesheet" href="animation.css">
+  </svg>
