@@ -11,4 +11,5 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-![Car Animation](https://github.com/<your-username>/<your-repo>/blob/main/animation.svg)
+![Car Animation](https://github.com/bard-ai/github-animation-example/blob/main/car-animation.svg)
+
