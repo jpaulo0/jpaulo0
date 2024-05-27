@@ -11,8 +11,26 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-## Carro Animado
+name: Deploy Animation
 
-<svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
-  <link rel="stylesheet" href="animation.css">
-  </svg>
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build Project
+        run: # Replace with your build commands
+
+      - name: Deploy Animation
+        uses: actions/upload-artifact@v3
+        with:
+          name: animation
+          path: ./animation.svg
+          retention-days: 10
+
