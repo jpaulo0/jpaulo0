@@ -1,8 +1,5 @@
 # 🌑 João Paulo  
 
-> _"Transformando café em código e caos em soluções."_  
-
----
 
 ### 🕶️ Sobre mim  
 - 💻 Dev iniciante mas sempre explorando novas stacks.  
