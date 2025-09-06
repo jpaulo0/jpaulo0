@@ -11,6 +11,6 @@
 
 ### 🛠️ Tecnologias & Ferramentas  
 ```bash
-💀 Languages: Python | Java (básico) | HTML | CSS
+💀 Languages: Python | Java | CSS
 🛠 Tools: Git | GitHub | VS Code
 📊 Extra: Projetos pessoais, estudos contínuos
